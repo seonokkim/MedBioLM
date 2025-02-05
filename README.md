@@ -1,7 +1,8 @@
-# MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned LLMs and RAG
+# MedBioLM: Optimizing Medical and Biological QA 
+with Fine-Tuned Large Language Models and Retrieval-Augmented Generation
 
 ## Overview
-**MedBioLM** is a domain-adapted biomedical question-answering model designed to enhance both short-form and long-form queries. It integrates **fine-tuning** and **retrieval-augmented generation (RAG)** to dynamically incorporate domain-specific knowledge, improving reasoning abilities and factual accuracy.
+**MedBioLM** is a domain-adapted biomedical question-answering model designed to enhance both short-form and long-form question answering. It integrates **fine-tuning** and **retrieval-augmented generation (RAG)** to dynamically incorporate domain-specific knowledge, improving reasoning abilities and accuracy.
 
 ## Paper
 For a detailed explanation of our approach, methods, and results, please refer to our paper:
