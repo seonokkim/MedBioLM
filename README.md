@@ -7,7 +7,7 @@ with Fine-Tuned Large Language Models and Retrieval-Augmented Generation
 ## Paper
 For a detailed explanation of our approach, methods, and results, please refer to our paper:
 
-🔗 [MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned Large Language Models and Retrieval-Augmented Generation](https://drive.google.com/file/d/1v5M1Y3Po9oZtP5jvOvKZsueoT34GO7Oi/view?usp=sharing)
+🔗 [MedBioLM: Optimizing Medical and Biological QA with Fine-Tuned Large Language Models and Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.03004)
 
 ### Overview of MedBioLM
 ![Overview](figures/overview.png)
